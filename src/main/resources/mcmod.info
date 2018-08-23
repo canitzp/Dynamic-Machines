@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dynamicmachines",
+  "name": "Dynamic Machines",
+  "description": "Your machine isn't fast enough? Here are some with excellent upgradability.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["canitzp"],
+  "credits": "Mojang, Forge, canitzp",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
